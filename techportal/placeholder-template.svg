@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>placeholder-template</title>
-    <g id="placeholder-template" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Rule-Icon" transform="translate(5.000000, 8.000000)" stroke="#232323">
-            <path d="M10.8435825,0.5 L13.8041088,3.5 L1.19589122,3.5 L4.15641754,0.5 L10.8435825,0.5 Z" id="Rectangle-2"></path>
-            <path d="M7.5,5.73105707 L13.845884,12.5 L1.15411601,12.5 L7.5,5.73105707 Z" id="Triangle-2" transform="translate(7.500000, 9.000000) scale(1, -1) translate(-7.500000, -9.000000) "></path>
-        </g>
-        <path d="M15,0 L15,1 L4,1 L4,23 L21,23 L21,7 L22,7 L22,24 L3,24 L3,0 L15,0 Z" id="Combined-Shape" fill="#232323"></path>
-        <polygon id="Rectangle" fill="#232323" points="16 0 22 6 16 6"></polygon>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 24 24" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="placeholder-template" vectornator:layerName="placeholder-template">
+<path d="M3 0L3 24L22 24L22 7L21 7L21 23L4 23L4 1L15 1L15 0L3 0Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M5.66053 13.1039L12.5 19.91L19.3395 13.1039L5.66053 13.1039ZM6.99636 13.634L18.0036 13.634L12.5 19.1062L6.99636 13.634Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M9.25838 8.88008L5.66053 12.4541L19.3395 12.4541L15.7416 8.88008L9.25838 8.88008ZM9.48992 9.35889L15.4032 9.35889L18.0927 11.9924L6.96074 11.9924L9.48992 9.35889Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M16 0L22 6L16 6L16 0Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none"/>
+</g>
 </svg>
