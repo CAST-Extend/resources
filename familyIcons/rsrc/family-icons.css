@@ -1,0 +1,92 @@
+.familyAPIGateway,
+.familyAWSLambdaFunction,
+.familyAuthentication,
+.familyBook,
+.familyBucket,
+.familyConstraintPrimary,
+.familyDivision,
+.familyFolder,
+.familyForeignKey,
+.familyIndex,
+.familyLambda,
+.familyMacro,
+.familyNamespace,
+.familyParagraph,
+.familyProgram,
+.familyQueueCall,
+.familyQueueReceive,
+.familyRegion,
+.familySection,
+.familyUniqueKey {
+  width: 16px;
+  height: 16px;
+}
+.familyAWSLambdaFunctionInvokeBlack,
+.familyAWSLambdaInvokeFunctionBlack {
+  width: 42px;
+  height: 42px;
+}
+.familyAlias,
+.familyBeans,
+.familyCallToJavaBean,
+.familyCallToJavaProgram,
+.familyCallToProgram,
+.familyCategory,
+.familyClass,
+.familyCondition,
+.familyConstructor,
+.familyCursor,
+.familyDataBlock,
+.familyDataModule,
+.familyDataSet,
+.familyDatabase,
+.familyDatabaseConnection,
+.familyDatabaseView,
+.familyDestructor,
+.familyEnumItem,
+.familyEnumeration,
+.familyEventHandler,
+.familyFile,
+.familyForm,
+.familyFunction,
+.familyList,
+.familyListBean,
+.familyLocalStorage,
+.familyPackage,
+.familyProcedure,
+.familyProcess,
+.familyPropertyGetter,
+.familyPropertySetter,
+.familyQueue,
+.familyReceive,
+.familyResourceServiceDelete,
+.familyResourceServiceGet,
+.familyResourceServicePost,
+.familyResourceServicePut,
+.familyRouteFrom,
+.familyRouteTo,
+.familySQLNamedQuery,
+.familySchema,
+.familyService,
+.familySynonym,
+.familyTable,
+.familyTableColumn,
+.familyTrigger,
+.familyUIButton,
+.familyUITextField,
+.familyUIView,
+.familyVariable,
+.familyWebService {
+  width: 32px;
+  height: 32px;
+}
+.familyAzureFunction,
+.familyAzureFunctionInvoke {
+  width: 92px;
+  height: 92px;
+}
+.familyCallToSignalR,
+.familySignalR {
+  width: 100%;
+  height: 100%;
+}
