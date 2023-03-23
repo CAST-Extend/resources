@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 260 260" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="com.castsoftware.impactanalysis" vectornator:layerName="com.castsoftware.impactanalysis">
+<g opacity="1" vectornator:layerName="database">
+<g opacity="1" vectornator:layerName="Group">
+<path d="M226 118.625C213.841 125.587 190.662 130.313 164.031 130.312C163.673 130.312 163.357 130.252 163 130.25L163 158.531C163.357 158.533 163.673 158.562 164.031 158.562C190.685 158.557 213.858 153.849 226 146.875L226 118.625Z" fill="#771c96" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+<path d="M101 63.1562L101 81.3125C101.173 81.312 101.327 81.2812 101.5 81.2812C133.803 81.2812 162.989 90.3259 163 99L163 112C163.357 112.002 163.673 112.062 164.031 112.062C190.685 112.062 213.864 107.349 226 100.375L226 63.1562L101 63.1562Z" fill="#b646db" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+<path d="M226 165.125C213.841 172.093 190.662 176.813 164.031 176.812C163.673 176.812 163.357 176.752 163 176.75L163 207.5C163.171 207.5 163.329 207.5 163.5 207.5C198.011 207.5 225.989 199.988 226 190.719L226 165.125Z" fill="#350a43" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+</g>
+<path d="M163.5 47C198.017 47 226 54.6125 226 63.9971C226 73.3875 198.017 81 163.5 81C128.983 81 101 73.3875 101 63.9971C101 54.6067 128.983 47 163.5 47Z" fill="#d69de9" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+</g>
+<g opacity="1" vectornator:layerName="database">
+<g opacity="1" vectornator:layerName="Group">
+<path d="M159 180.82L159 153.938C147.425 160.564 125.361 165.049 100.008 165.049C73.8825 165.049 51.2563 160.285 40 153.324L40 180.234C51.2563 187.194 73.8825 191.958 100.008 191.958C125.383 191.953 147.441 187.457 159 180.82Z" fill="#4a4a4a" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+<path d="M100.008 147.69C125.383 147.69 147.446 143.194 159 136.557L159 101.159L40 101.159L40 135.971C51.2563 142.925 73.8825 147.69 100.008 147.69Z" fill="#9b9b9b" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+<path d="M100.008 209.312C73.8825 209.312 51.2563 204.548 40 197.582L40 222.548C40.0108 231.37 66.6452 238.516 99.5 238.516C132.355 238.516 158.989 231.37 159 222.548L159 198.195C147.425 204.827 125.361 209.312 100.008 209.312Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+</g>
+<path d="M99.5 86C132.36 86 159 93.1648 159 101.997C159 110.835 132.36 118 99.5 118C66.6398 118 40 110.835 40 101.997C40 93.1593 66.6398 86 99.5 86Z" fill="#cfcecf" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+</g>
+<path d="M67.5 104C72.7467 104 77 101.985 77 99.5C77 97.0147 72.7467 95 67.5 95C62.2533 95 58 97.0147 58 99.5C58 101.985 62.2533 104 67.5 104Z" fill="#afafaf" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Oval 2"/>
+<path d="M200.5 67C205.747 67 210 64.9853 210 62.5C210 60.0147 205.747 58 200.5 58C195.253 58 191 60.0147 191 62.5C191 64.9853 195.253 67 200.5 67Z" fill="#c15fe1" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Oval 2 Copy"/>
+<path d="M67.485 30L67.515 30C68.3351 30 69 30.6649 69 31.485L69 102.515C69 103.335 68.3351 104 67.515 104L67.485 104C66.6649 104 66 103.335 66 102.515L66 31.485C66 30.6649 66.6649 30 67.485 30Z" fill="#4b9000" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Rectangle 2"/>
+<path d="M130.5 103C135.747 103 140 100.985 140 98.5C140 96.0147 135.747 94 130.5 94C125.253 94 121 96.0147 121 98.5C121 100.985 125.253 103 130.5 103Z" fill="#afafaf" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Oval 2 Copy 3"/>
+<path d="M130.485 29L130.515 29C131.335 29 132 29.6649 132 30.485L132 101.515C132 102.335 131.335 103 130.515 103L130.485 103C129.665 103 129 102.335 129 101.515L129 30.485C129 29.6649 129.665 29 130.485 29Z" fill="#6ecb07" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Rectangle 2 Copy 3"/>
+<path d="M99.5 113C104.747 113 109 110.985 109 108.5C109 106.015 104.747 104 99.5 104C94.2533 104 90 106.015 90 108.5C90 110.985 94.2533 113 99.5 113Z" fill="#afafaf" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Oval 2 Copy 4"/>
+<path d="M99.485 39L99.515 39C100.335 39 101 39.6649 101 40.485L101 111.515C101 112.335 100.335 113 99.515 113L99.485 113C98.6649 113 98 112.335 98 111.515L98 40.485C98 39.6649 98.6649 39 99.485 39Z" fill="#ff1e3e" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Rectangle 2 Copy 4"/>
+<g opacity="1" vectornator:layerName="Group 2">
+<path d="M99.5 31L113 56L86 56L99.5 31Z" fill="#d0021b" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Triangle"/>
+<path d="M91.7812 50L86 56L113 56L107.219 50L91.7812 50Z" fill="#881826" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Combined Shape"/>
+<path d="M99.5 63L107 50L92 50L99.5 63Z" fill="#eb8291" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Triangle 2"/>
+</g>
+<path d="M200.485 23L200.515 23C201.335 23 202 23.6649 202 24.485L202 65.515C202 66.3351 201.335 67 200.515 67L200.485 67C199.665 67 199 66.3351 199 65.515L199 24.485C199 23.6649 199.665 23 200.485 23Z" fill="#6ecb07" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Rectangle 2 Copy"/>
+<path d="M163.5 62C168.747 62 173 59.9853 173 57.5C173 55.0147 168.747 53 163.5 53C158.253 53 154 55.0147 154 57.5C154 59.9853 158.253 62 163.5 62Z" fill="#c15fe1" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Oval 2 Copy 2"/>
+<path d="M163.485 18L163.515 18C164.335 18 165 18.6649 165 19.485L165 60.515C165 61.3351 164.335 62 163.515 62L163.485 62C162.665 62 162 61.3351 162 60.515L162 19.485C162 18.6649 162.665 18 163.485 18Z" fill="#ff1e3e" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Rectangle 2 Copy 2"/>
+<g opacity="1" vectornator:layerName="Group 2">
+<path d="M67.5 24L81 49L54 49L67.5 24Z" fill="#79c224" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Triangle"/>
+<path d="M59.7812 43L54 49L81 49L75.2188 43L59.7812 43Z" fill="#5b931e" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Combined Shape"/>
+<path d="M67.5 56L75 43L60 43L67.5 56Z" fill="#a4e166" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Triangle 2"/>
+</g>
+<g opacity="1" vectornator:layerName="Group 2">
+<path d="M130.5 13L144 38L117 38L130.5 13Z" fill="#79c224" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Triangle"/>
+<path d="M122.781 32L117 38L144 38L138.219 32L122.781 32Z" fill="#5b931e" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Combined Shape"/>
+<path d="M130.5 45L138 32L123 32L130.5 45Z" fill="#a4e166" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Triangle 2"/>
+</g>
+<g opacity="1" vectornator:layerName="Group 2 Copy">
+<path d="M200.5 14L214 39L187 39L200.5 14Z" fill="#79c224" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Triangle"/>
+<path d="M192.781 33L187 39L214 39L208.219 33L192.781 33Z" fill="#5b931e" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Combined Shape"/>
+<path d="M200.5 46L208 33L193 33L200.5 46Z" fill="#a4e166" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Triangle 2"/>
+</g>
+<g opacity="1" vectornator:layerName="Group 2 Copy 2">
+<path d="M163.5 7L177 32L150 32L163.5 7Z" fill="#d0021b" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Triangle"/>
+<path d="M155.781 26L150 32L177 32L171.219 26L155.781 26Z" fill="#881826" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Combined Shape"/>
+<path d="M163.5 39L171 26L156 26L163.5 39Z" fill="#eb8291" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Triangle 2"/>
+</g>
+</g>
+</svg>

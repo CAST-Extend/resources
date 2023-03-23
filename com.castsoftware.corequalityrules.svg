@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 260 260" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="80" id="Filter" width="80" x="92" y="107">
+<feDropShadow dx="1.22465e-16" dy="2" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="2"/>
+</filter>
+</defs>
+<g id="com.castsoftware.corequalityrules">
+<g opacity="1">
+<path d="M32.2972 132.176L32.2972 193.917L132 221.136L132 159.225L32.2972 132.176Z" fill="#a0c5ca" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M75.5244 175.665C75.5244 179.486 73.2739 182.119 70.3015 182.119C69.8344 182.119 69.3673 182.076 68.8577 181.907C68.2633 181.737 67.6688 181.482 67.1168 181.142C66.7346 180.93 66.3949 180.675 66.0552 180.378C64.6964 179.231 63.5499 177.618 62.8705 175.834C62.4459 174.645 62.1911 173.372 62.1911 172.098C62.1911 167.682 65.1635 164.879 68.8577 165.856C70.7261 166.365 72.3822 167.724 73.5711 169.507C73.8259 169.847 74.0382 170.229 74.2081 170.611C74.5053 171.163 74.7601 171.758 74.9299 172.395C75.0573 172.777 75.1423 173.159 75.2272 173.584C75.4395 174.263 75.5244 174.985 75.5244 175.665Z" fill="#7a7a7a" fill-rule="evenodd" opacity="0" stroke="none"/>
+<path d="M132 159.225L132 221.136L231.745 194.299L231.745 132.176L132 159.225Z" fill="#c9f8ff" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M132 159.225L32.2972 132.176L132 105.17L231.745 132.176L132 159.225Z" fill="#bce9f0" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M132.042 136.89C142.643 136.89 151.236 134.19 151.236 130.86C151.236 127.53 142.643 124.83 132.042 124.83C121.442 124.83 112.849 127.53 112.849 130.86C112.849 134.19 121.442 136.89 132.042 136.89Z" fill="#7a7a7a" fill-rule="nonzero" opacity="0" stroke="none"/>
+</g>
+<g opacity="1">
+<path d="M32.2972 62.1762L32.2972 123.917L132 151.136L132 89.2251L32.2972 62.1762Z" fill="#a0c5ca" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M75.5244 105.665C75.5244 109.486 73.2739 112.119 70.3015 112.119C69.8344 112.119 69.3673 112.076 68.8577 111.907C68.2633 111.737 67.6688 111.482 67.1168 111.142C66.7346 110.93 66.3949 110.675 66.0552 110.378C64.6964 109.231 63.5499 107.618 62.8705 105.834C62.4459 104.645 62.1911 103.372 62.1911 102.098C62.1911 97.6815 65.1635 94.879 68.8577 95.8556C70.7261 96.3652 72.3822 97.724 73.5711 99.5074C73.8259 99.8471 74.0382 100.229 74.2081 100.611C74.5053 101.163 74.7601 101.758 74.9299 102.395C75.0573 102.777 75.1423 103.159 75.2272 103.584C75.4395 104.263 75.5244 104.985 75.5244 105.665Z" fill="#7a7a7a" fill-rule="evenodd" opacity="0" stroke="none"/>
+<path d="M132 89.2251L132 151.136L231.745 124.299L231.745 62.1762L132 89.2251Z" fill="#c9f8ff" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M132 89.2251L32.2972 62.1762L132 35.1699L231.745 62.1762L132 89.2251Z" fill="#bce9f0" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M132.042 66.8896C142.643 66.8896 151.236 64.19 151.236 60.8599C151.236 57.5297 142.643 54.8301 132.042 54.8301C121.442 54.8301 112.849 57.5297 112.849 60.8599C112.849 64.19 121.442 66.8896 132.042 66.8896Z" fill="#7a7a7a" fill-rule="nonzero" opacity="0" stroke="none"/>
+</g>
+<g opacity="1">
+<path d="M132 180C151.33 180 167 164.33 167 145C167 125.67 151.33 110 132 110C112.67 110 97 125.67 97 145C97 164.33 112.67 180 132 180Z" fill="#2796e2" fill-rule="evenodd" filter="url(#Filter)" stroke="none"/>
+<path d="M123.097 122.018L148.228 122.018L131.474 153.693L118.07 153.693L123.097 122.018Z" fill="#efefef" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M120.049 141.325L149.72 141.325L124.588 173L130.638 153.939L118.07 153.939L120.049 141.325Z" fill="#ffffff" fill-rule="evenodd" opacity="1" stroke="none"/>
+</g>
+</g>
+</svg>

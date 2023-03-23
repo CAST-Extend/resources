@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 260 260" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="com.castsoftware.vuejs" vectornator:layerName="com.castsoftware.vuejs">
+<g opacity="1" vectornator:layerName="vue-js-1">
+<path d="M160.025 17.4148L130 69.4148L99.9752 17.4148L0 17.4148L130 242.585L260 17.4148L160.025 17.4148Z" fill="#4dba87" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Path"/>
+<path d="M160.025 17.4148L130 69.4148L99.9752 17.4148L52 17.4148L130 152.511L208 17.4148L160.025 17.4148Z" fill="#435466" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Path"/>
+</g>
+</g>
+</svg>
