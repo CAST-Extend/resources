@@ -1,0 +1,103 @@
+.svg_architectural-design,
+.svg_autosar-cpp-2014,
+.svg_autosar-regular,
+.svg_business-criteria,
+.svg_c-cpp,
+.svg_castWithTagline,
+.svg_changeability,
+.svg_cisq-regular,
+.svg_cisq,
+.svg_com\.castsoftware\.aip,
+.svg_cwe-2011-top25,
+.svg_cwe-2019-top25,
+.svg_cwe-2020-top25,
+.svg_cwe-2022-top25,
+.svg_cwe-2023-top25,
+.svg_cwe-latest-version,
+.svg_cwe-regular,
+.svg_cwe,
+.svg_documentation,
+.svg_efficiency,
+.svg_extension,
+.svg_green,
+.svg_greenit-index,
+.svg_maintainability,
+.svg_mips-reduction-index,
+.svg_misra-black,
+.svg_misra-c-2012,
+.svg_misra-cpp-2008,
+.svg_misra-regular,
+.svg_nist-regular,
+.svg_nist,
+.svg_omg-ascqm-index,
+.svg_omg-atdm,
+.svg_omg,
+.svg_owasp-2013,
+.svg_owasp-2017,
+.svg_owasp-api-2019,
+.svg_owasp-mobile-2016,
+.svg_owasp,
+.svg_pci-dss-v3\.1,
+.svg_pci-dss-v3\.2\.1,
+.svg_performanceefficiency,
+.svg_placeholder-template,
+.svg_placeholder,
+.svg_programming-practices,
+.svg_quality-standards,
+.svg_reliability,
+.svg_robustness,
+.svg_search,
+.svg_security,
+.svg_stig-v5-regular,
+.svg_stig-v5,
+.svg_technologies,
+.svg_tqi,
+.svg_transferability {
+  width: 100%;
+  height: 100%;
+}
+.svg_castsoftware {
+  width: 144px;
+  height: 18px;
+}
+.svg_cisq-index {
+  width: 180px;
+  height: 180px;
+}
+.svg_cloud-migration {
+  width: 42.3px;
+  height: 29.3px;
+}
+.svg_com\.castsoftware\.iso5055,
+.svg_iso-5055 {
+  width: 260px;
+  height: 260px;
+}
+.svg_cwe-2021-top25,
+.svg_owasp-2021 {
+  width: 92px;
+  height: 92px;
+}
+.svg_extensions {
+  width: 32px;
+  height: 32px;
+}
+.svg_indexes,
+.svg_iso-5055-index,
+.svg_owasp-2013-index,
+.svg_owasp-2017-index,
+.svg_owasp-2021-index {
+  width: 160px;
+  height: 160px;
+}
+.svg_maintainabilityall {
+  width: 500px;
+  height: 500px;
+}
+.svg_misra,
+.svg_nist-sp-800-53r4,
+.svg_omg-ascqm,
+.svg_stig-v4r8 {
+  width: 100px;
+  height: 100px;
+}
