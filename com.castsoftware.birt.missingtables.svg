@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 200 200" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="110" id="Filter" width="110" x="88.3561" y="89.5069">
+<feDropShadow dx="0" dy="0" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="2"/>
+</filter>
+</defs>
+<g id="com.castsoftware.sqlanalyzer" vectornator:layerName="com.castsoftware.sqlanalyzer">
+<g opacity="1" vectornator:layerName="database">
+<g opacity="1" vectornator:layerName="Group">
+<path d="M163.11 121.218L163.11 88.6867C149.103 96.7051 122.404 102.133 91.7251 102.133C60.1105 102.133 32.7309 96.3672 19.1098 87.9444L19.1098 120.509C32.7309 128.932 60.1105 134.697 91.7251 134.697C122.43 134.69 149.122 129.25 163.11 121.218Z" fill="#4a4a4a" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+<path d="M91.7251 81.1254C122.43 81.1254 149.129 75.6848 163.11 67.653L163.11 24.817L19.1098 24.817L19.1098 66.9439C32.7309 75.36 60.1105 81.1254 91.7251 81.1254Z" fill="#9b9b9b" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+<path d="M91.7251 155.697C60.1105 155.697 32.7309 149.932 19.1098 141.503L19.1098 171.715C19.1229 182.39 51.3527 191.038 91.1098 191.038C130.867 191.038 163.097 182.39 163.11 171.715L163.11 142.245C149.103 150.27 122.404 155.697 91.7251 155.697Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+</g>
+<path d="M91.1098 5.49312C130.873 5.49312 163.11 14.1478 163.11 24.817C163.11 35.4929 130.873 44.1476 91.1098 44.1476C51.3461 44.1476 19.1098 35.4929 19.1098 24.817C19.1098 14.1412 51.3461 5.49312 91.1098 5.49312Z" fill="#cfcecf" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+</g>
+<path d="M143.356 194.507C170.97 194.507 193.356 172.121 193.356 144.507C193.356 116.893 170.97 94.5069 143.356 94.5069C115.742 94.5069 93.3561 116.893 93.3561 144.507C93.3561 172.121 115.742 194.507 143.356 194.507Z" fill="#ffffff" fill-rule="evenodd" filter="url(#Filter)" stroke="none" vectornator:layerName="Oval" vectornator:shadowAngle="0" vectornator:shadowColor="#000000" vectornator:shadowOffset="0" vectornator:shadowOpacity="0.5" vectornator:shadowRadius="4"/>
+<g opacity="1">
+<path d="M143.356 100.829L106.003 122.668L106.003 166.346L143.356 188.185L180.709 166.346L180.709 122.668L143.356 100.829ZM143.356 104.085L177.895 124.296L177.895 164.718L143.356 184.929L108.817 164.718L108.817 124.296L143.356 104.085Z" fill="#43197f" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Polygon 2"/>
+<path d="M142.407 115.241C142.205 115.273 141.978 115.357 141.745 115.513L117.872 131.434C117.605 131.612 117.397 132.012 117.397 132.333L117.397 156.851C117.397 157.97 118.144 158.387 119.076 157.766L142.949 141.845C143.216 141.667 143.441 141.267 143.441 140.946L143.441 116.428C143.441 115.588 143.012 115.146 142.407 115.241ZM140.236 119.04C140.841 118.945 141.271 119.372 141.271 120.209L141.271 140.098C141.271 140.42 141.047 140.836 140.779 141.014L121.246 153.968C120.315 154.586 119.567 154.186 119.567 153.069L119.567 133.181C119.567 132.859 119.774 132.443 120.042 132.265L139.575 119.311C139.808 119.156 140.035 119.071 140.236 119.04Z" fill="#43197f" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Rectangle 2"/>
+<path d="M142.407 173.772C142.205 173.74 141.978 173.656 141.745 173.501L117.872 157.58C117.605 157.402 117.397 157.002 117.397 156.681L117.397 132.163C117.397 131.043 118.144 130.626 119.076 131.248L142.949 147.169C143.216 147.347 143.441 147.747 143.441 148.068L143.441 172.585C143.441 173.425 143.012 173.868 142.407 173.772ZM140.236 169.974C140.841 170.069 141.271 169.642 141.271 168.804L141.271 148.915C141.271 148.594 141.047 148.178 140.779 148L121.246 135.046C120.315 134.428 119.567 134.827 119.567 135.944L119.567 155.833C119.567 156.155 119.774 156.571 120.042 156.749L139.575 169.703C139.808 169.857 140.035 169.943 140.236 169.974Z" fill="#43197f" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Rectangle 2 Copy"/>
+</g>
+</g>
+</svg>
