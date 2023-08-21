@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 200 200" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="110" id="Filter" width="110" x="88.3561" y="89.5069">
+<feDropShadow dx="0" dy="0" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="2"/>
+</filter>
+</defs>
+<g id="com.castsoftware.sqlanalyzer" vectornator:layerName="com.castsoftware.sqlanalyzer">
+<path d="M176.123 79.6941L120.798 79.6941C118.021 79.6929 115.77 77.2243 115.769 74.1785L115.769 10.9358C115.769 6.25246 112.307 2.45347 108.039 2.45347L88.2895 2.45347C84.0191 2.45347 80.5588 6.25246 80.5588 10.9358L80.5588 73.7955C80.5588 77.0568 78.155 79.7076 75.1817 79.7219L57.0513 79.8167C54.0526 79.8346 51.6164 77.1659 51.6222 73.8797L51.7347 10.95C51.7445 6.25959 48.2809 2.45347 44.0046 2.45347L24.2715 2.45347C20.0004 2.45347 16.5407 6.25246 16.5407 10.9358L16.5407 188.024C16.5407 192.185 19.6135 195.555 23.4035 195.555L176.123 195.555C179.916 195.555 182.989 192.185 182.989 188.024L182.989 87.225C182.989 83.0644 179.916 79.6941 176.123 79.6941ZM150.179 146.184C150.179 151.636 146.149 156.057 141.178 156.057L125.571 156.057C120.599 156.057 116.569 151.636 116.569 146.184L116.569 129.064C116.569 123.612 120.599 119.192 125.571 119.192L141.178 119.192C146.149 119.192 150.179 123.612 150.179 129.064C150.179 129.064 150.179 146.184 150.179 146.184Z" fill="#ff6600" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path 1"/>
+<path d="M143.356 194.507C170.97 194.507 193.356 172.121 193.356 144.507C193.356 116.893 170.97 94.5069 143.356 94.5069C115.742 94.5069 93.3561 116.893 93.3561 144.507C93.3561 172.121 115.742 194.507 143.356 194.507Z" fill="#5c2d91" fill-rule="evenodd" filter="url(#Filter)" stroke="none" vectornator:layerName="Oval" vectornator:shadowAngle="0" vectornator:shadowColor="#000000" vectornator:shadowOffset="0" vectornator:shadowOpacity="0.5" vectornator:shadowRadius="4"/>
+<g opacity="1" vectornator:layerName="netcore">
+<path d="M101.686 160.129C100.914 160.141 100.173 159.832 99.6416 159.276C99.0959 158.741 98.7932 158.008 98.8034 157.246C98.7979 156.486 99.0998 155.754 99.6416 155.216C100.168 154.651 100.911 154.334 101.686 154.343C102.46 154.342 103.2 154.658 103.73 155.216C104.282 155.75 104.592 156.482 104.589 157.246C104.596 158.012 104.286 158.746 103.73 159.276C103.195 159.826 102.456 160.134 101.686 160.129Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+<path d="M136.991 160.129L132.241 160.129L115.253 135.209C114.829 134.595 114.477 133.94 114.201 133.255L114.056 133.255C114.217 134.678 114.278 136.109 114.237 137.54L114.237 160.129L110.375 160.129L110.375 128.884L115.398 128.884L131.933 153.359C132.622 154.376 133.069 155.073 133.275 155.45L133.365 155.45C133.174 153.926 133.095 152.391 133.13 150.857L133.13 128.884L136.991 128.884L136.991 160.129Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+<path d="M161.275 160.129L143.935 160.129L143.935 128.884L160.47 128.884L160.47 132.192L147.836 132.192L147.836 142.579L159.611 142.579L159.611 145.869L147.836 145.869L147.836 156.701L161.293 156.701L161.275 160.129Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+<path d="M187.909 132.192L178.227 132.192L178.227 160.129L174.337 160.129L174.337 132.192L164.765 132.192L164.765 128.884L187.909 128.884L187.909 132.192Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+</g>
+</g>
+</svg>

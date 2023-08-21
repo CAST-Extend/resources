@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 260 260" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="16.4279" x2="149.497" y1="193.78" y2="60.7098">
+<stop offset="0.108" stop-color="#c757bc"/>
+<stop offset="0.173" stop-color="#cd5ca9"/>
+<stop offset="0.492" stop-color="#e8744f"/>
+<stop offset="0.716" stop-color="#f88316"/>
+<stop offset="0.823" stop-color="#ff8900"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="120.68" x2="184.542" y1="239.232" y2="175.37">
+<stop offset="0.296" stop-color="#00afff"/>
+<stop offset="0.694" stop-color="#5282ff"/>
+<stop offset="1" stop-color="#945dff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient_3" x1="46.4349" x2="91.2352" y1="66.3646" y2="21.5632">
+<stop offset="0.296" stop-color="#00afff"/>
+<stop offset="0.694" stop-color="#5282ff"/>
+<stop offset="1" stop-color="#945dff"/>
+</linearGradient>
+</defs>
+<g id="com.castsoftware.kotlin" vectornator:layerName="com.castsoftware.kotlin">
+<g opacity="1" vectornator:layerName="kotlin-1">
+<path d="M130.414 30L30 135.598L30 230L130.27 129.554L230 30L130.414 30Z" fill="url(#LinearGradient)" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Path"/>
+<path d="M30 230L130.27 129.555L230 230L30 230Z" fill="url(#LinearGradient_2)" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Path"/>
+<path d="M30 30L130.414 30L30 135.598L30 30Z" fill="url(#LinearGradient_3)" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Path"/>
+</g>
+</g>
+</svg>
