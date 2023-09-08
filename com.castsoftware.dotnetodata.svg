@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 260 260" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="110" id="Filter" width="110" x="128" y="131">
+<feDropShadow dx="0" dy="0" flood-color="#000000" flood-opacity="0.5" in="SourceGraphic" result="Shadow" stdDeviation="2"/>
+</filter>
+</defs>
+<g id="com.castsoftware.dotnet.service" vectornator:layerName="com.castsoftware.dotnet.service">
+<g opacity="1" vectornator:layerName="Group 1">
+<path d="M36.8221 33.8221L229.178 33.8221L229.178 226.178L36.8221 226.178L36.8221 33.8221Z" fill="#fe8e05" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 8"/>
+<path d="M55.0459 51.8054L124.92 51.8054L124.92 68.8922L55.0459 68.8922L55.0459 51.8054Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 9"/>
+<path d="M142.288 51.8054L212.163 51.8054L212.163 68.8922L142.288 68.8922L142.288 51.8054Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 10"/>
+<path d="M55.0827 86.8094L124.957 86.8094L124.957 103.896L55.0827 103.896L55.0827 86.8094Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 11"/>
+<path d="M142.325 86.8094L212.2 86.8094L212.2 103.896L142.325 103.896L142.325 86.8094Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 12"/>
+<path d="M55.1196 121.813L124.994 121.813L124.994 138.9L55.1196 138.9L55.1196 121.813Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 13"/>
+<path d="M142.362 121.813L212.236 121.813L212.236 138.9L142.362 138.9L142.362 121.813Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 14"/>
+<path d="M142.362 156.013L212.236 156.013L212.236 173.099L142.362 173.099L142.362 156.013Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 15"/>
+<path d="M58.3695 182.62C58.3695 165.161 72.5234 151.007 89.9831 151.007C107.443 151.007 121.597 165.161 121.597 182.62C121.597 200.08 107.443 214.234 89.9831 214.234C72.5234 214.234 58.3695 200.08 58.3695 182.62Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Oval 1"/>
+</g>
+<path d="M183 236C210.614 236 233 213.614 233 186C233 158.386 210.614 136 183 136C155.386 136 133 158.386 133 186C133 213.614 155.386 236 183 236Z" fill="#5c2d91" fill-rule="evenodd" filter="url(#Filter)" stroke="none" vectornator:layerName="Oval" vectornator:shadowAngle="0" vectornator:shadowColor="#000000" vectornator:shadowOffset="0" vectornator:shadowOpacity="0.5" vectornator:shadowRadius="4"/>
+<g opacity="1" vectornator:layerName="netcore">
+<path d="M146.491 199C145.824 199.01 145.184 198.743 144.725 198.263C144.253 197.8 143.991 197.167 144 196.509C143.995 195.851 144.256 195.219 144.725 194.754C145.179 194.266 145.821 193.992 146.491 194C147.16 193.999 147.799 194.272 148.258 194.754C148.734 195.215 149.002 195.848 149 196.509C149.006 197.17 148.738 197.804 148.258 198.263C147.795 198.738 147.157 199.004 146.491 199Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+<path d="M177 199L172.895 199L158.215 177.465C157.849 176.935 157.544 176.369 157.306 175.777L157.181 175.777C157.32 177.006 157.372 178.243 157.337 179.479L157.337 199L154 199L154 172L158.34 172L172.629 193.15C173.224 194.029 173.611 194.631 173.788 194.957L173.866 194.957C173.701 193.64 173.633 192.313 173.663 190.987L173.663 172L177 172L177 199Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+<path d="M197.985 199L183 199L183 172L197.289 172L197.289 174.858L186.371 174.858L186.371 183.834L196.546 183.834L196.546 186.677L186.371 186.677L186.371 196.038L198 196.038L197.985 199Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+<path d="M221 174.858L212.634 174.858L212.634 199L209.272 199L209.272 174.858L201 174.858L201 172L221 172L221 174.858Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+</g>
+</g>
+</svg>
