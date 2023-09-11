@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="WebService" vectornator:layerName="WebService">
+<g opacity="1" vectornator:layerName="web-service-post">
+<g opacity="1" vectornator:layerName="left">
+<path d="M11.0385 4.18182L14.3846 4.18182L14.3924 16L11.0385 14.8182L11.0385 4.18182Z" fill="#0c8d6d" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+<path d="M11.0385 11.2727L14.3846 13.6364L14.3846 16L11.0385 13.6364L11.0385 11.2727Z" fill="#000000" fill-rule="evenodd" opacity="0.3" stroke="none" vectornator:layerName="polygon"/>
+<path d="M6.5625 13.625L8.8125 16L14.375 16L14.375 13.625L6.5625 13.625Z" fill="#16b890" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curve 2"/>
+<path d="M13.2812 3C6.50529 3 1 8.82045 1 16L4.34375 16C4.34375 10.7787 8.35348 6.53125 13.2812 6.53125L14.375 6.53125L14.375 3.0625C14.0069 3.02823 13.6571 3 13.2812 3Z" fill="#16b890" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curve 1"/>
+</g>
+<g opacity="1" vectornator:layerName="right">
+<path d="M19.9615 27.8182L16.6154 27.8182L16.6154 12.4545L19.9615 17.1818L19.9615 27.8182Z" fill="#602880" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+<path d="M19.9615 20.7273L16.6154 18.3636L16.6154 16L19.9615 18.3636L19.9615 20.7273Z" fill="#000000" fill-rule="evenodd" opacity="0.3" stroke="none" vectornator:layerName="polygon"/>
+<path d="M16.6154 6.54545C16.9745 6.549 17.3515 6.54545 17.7308 6.54545C22.6585 6.54545 26.6538 10.7787 26.6538 16C26.6538 21.2213 22.6585 25.4545 17.7308 25.4545L16.6154 25.4545L16.6154 28.9397C16.9835 28.9752 17.3538 29 17.7308 29C24.5067 29 30 23.1795 30 16C30 8.82045 24.5067 3 17.7308 3C17.3538 3 16.9835 3.02482 16.6154 3.06027L16.6154 6.54545L16.6154 6.54545Z" fill="#8537b2" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M24.4231 18.3636L16.6154 10.0909L16.6154 18.3636L24.4231 18.3636Z" fill="#8537b2" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+</g>
+</g>
+<path d="M12.5 18C13.3284 18 14 18.6716 14 19.5L14 26.5C14 27.3284 13.3284 28 12.5 28C11.6716 28 11 27.3284 11 26.5L10.9993 23.313L4.18198 30.1317C3.59619 30.7175 2.64645 30.7175 2.06066 30.1317C1.47487 29.5459 1.47487 28.5962 2.06066 28.0104L9.07032 21L5.5 21C4.67157 21 4 20.3284 4 19.5C4 18.6716 4.67157 18 5.5 18L12.5 18L12.5 18Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</svg>
