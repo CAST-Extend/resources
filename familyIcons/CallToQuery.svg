@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="SQLNamedQuery" vectornator:layerName="SQLNamedQuery">
+<g opacity="1" vectornator:layerName="alias">
+<g opacity="1" vectornator:layerName="Group">
+<path d="M9 6L2.95522 16L0 16L6.04478 6L9 6Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Shape"/>
+</g>
+<g opacity="1" vectornator:layerName="Group Copy">
+<path d="M23 6L29.0312 16L23 26L25.9688 26L32 16L25.9688 6L23 6Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curve 1"/>
+</g>
+</g>
+<path d="M16 8C11.5817 8 8 11.5817 8 16C8 16.1551 8.08504 16.2846 8.09375 16.4375L10.0938 16.4375C10.0822 16.2854 10 16.1551 10 16C10 12.6863 12.6863 10 16 10C19.3137 10 22 12.6863 22 16C22 19.3137 19.3137 22 16 22C15.6474 22 15.3359 21.8709 15 21.8125L15 22L15 23.0312L15 23.8125C15.3078 23.8525 15.5949 23.9459 15.9062 23.9688L20.7188 29L24 29L18.6875 23.4688C21.7744 22.3597 24 19.4688 24 16C24 11.5817 20.4183 8 16 8Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curve 1"/>
+<path d="M12.5 18C13.3284 18 14 18.6716 14 19.5L14 26.5C14 27.3284 13.3284 28 12.5 28C11.6716 28 11 27.3284 11 26.5L10.9993 23.313L4.18198 30.1317C3.59619 30.7175 2.64645 30.7175 2.06066 30.1317C1.47487 29.5459 1.47487 28.5962 2.06066 28.0104L9.07032 21L5.5 21C4.67157 21 4 20.3284 4 19.5C4 18.6716 4.67157 18 5.5 18L12.5 18L12.5 18Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</svg>
