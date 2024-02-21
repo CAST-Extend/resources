@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 25.6 25.6" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="SQLNamedQuery" vectornator:layerName="SQLNamedQuery">
+<g opacity="1" vectornator:layerName="alias">
+<g opacity="1" vectornator:layerName="Group">
+<path d="M7.2 4.8L2.36418 12.8L0 12.8L4.83582 4.8L7.2 4.8Z" fill="#bfbfbf" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+<path d="M7.2 20.8L2.36418 12.8L0 12.8L4.83582 20.8L7.2 20.8Z" fill="#a3a3a3" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+</g>
+<g opacity="1" vectornator:layerName="Group-Copy">
+<path d="M18.4 20.8L23.2358 12.8L25.6 12.8L20.7642 20.8L18.4 20.8Z" fill="#bfbfbf" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+<path d="M18.4 4.8L23.2358 12.8L25.6 12.8L20.7642 4.8L18.4 4.8Z" fill="#a3a3a3" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+</g>
+</g>
+<path d="M19.2 23.2L13.8269 17.6L11.2 17.6L16.5731 23.2L19.2 23.2Z" fill="#a3a3a3" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+<path d="M16.096 20L14.56 18.4L12 18.4L14.32 20.8L16.096 20Z" fill="#767676" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+<path d="M12.8 6.4C16.3346 6.4 19.2 9.26538 19.2 12.8C19.2 16.3346 16.3346 19.2 12.8 19.2C9.26538 19.2 6.4 16.3346 6.4 12.8C6.4 9.26538 9.26538 6.4 12.8 6.4ZM12.8 8C10.149 8 8 10.149 8 12.8C8 15.451 10.149 17.6 12.8 17.6C15.451 17.6 17.6 15.451 17.6 12.8C17.6 10.149 15.451 8 12.8 8Z" fill="#bfbfbf" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</svg>
