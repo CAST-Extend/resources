@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Linearity Curve (http://linearity.io/curve) -->
+<svg height="32.0pt" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="32.0pt" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="TableColumn">
+<path d="M1 1L7 1L7 7L1 7L1 1Z" fill="#c9c9c9" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M7 2L16 2L16 7L7 7L7 2Z" fill="#9b9b9b" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M22 2L31 2L31 7L22 7L22 2Z" fill="#9b9b9b" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M22 10L31 10L31 15L22 15L22 10Z" fill="#9b9b9b" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M22 18L31 18L31 23L22 23L22 18Z" fill="#9b9b9b" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M22 26L31 26L31 31L22 31L22 26Z" fill="#9b9b9b" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M1 9L7 9L7 15L1 15L1 9Z" fill="#c9c9c9" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M7 10L16 10L16 15L7 15L7 10Z" fill="#9b9b9b" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M1 17L7 17L7 23L1 23L1 17Z" fill="#c9c9c9" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M7 18L16 18L16 23L7 23L7 18Z" fill="#9b9b9b" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M1 25L7 25L7 31L1 31L1 25Z" fill="#c9c9c9" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M7 26L16 26L16 31L7 31L7 26Z" fill="#9b9b9b" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M7 15L12 15L9.4 10L7 10L7 15Z" fill="#272727" fill-opacity="0.415421" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M7 23L12 23L9.4 18L7 18L7 23Z" fill="#272727" fill-opacity="0.415421" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M7 31L12 31L9.4 26L7 26L7 31Z" fill="#272727" fill-opacity="0.415421" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M7 7L12 7L9.4 2L7 2L7 7Z" fill="#272727" fill-opacity="0.415421" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M22 15L27 15L24.4 10L22 10L22 15Z" fill="#272727" fill-opacity="0.415421" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M22 23L27 23L24.4 18L22 18L22 23Z" fill="#272727" fill-opacity="0.415421" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M22 31L27 31L24.4 26L22 26L22 31Z" fill="#272727" fill-opacity="0.415421" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M22 7L27 7L24.4 2L22 2L22 7Z" fill="#272727" fill-opacity="0.415421" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M17.0415 0L20.9192 0L20.9674 32L16.9631 32L17.0415 0Z" fill="#5e5e5e" fill-rule="evenodd" opacity="1" stroke="none"/>
+</g>
+</svg>
